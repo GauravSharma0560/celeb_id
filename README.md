@@ -1,6 +1,6 @@
 # celeb_id
 
-## git clone https://github.com/EngineerRancho/celeb_id
+## git clone https://github.com/GauravSharma0560/celeb_id
 
 check in the home folder..
 
